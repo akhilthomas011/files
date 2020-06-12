@@ -1,57 +1,57 @@
-# Access the Published Applications/ Desktop using Browser.
-## Access the Published Apps.
+# Access the Published Applications/ Desktop using Browser
+## Access the Published Apps
 
-Now as we have created Desktop and Apps in previous step, now we will be accessing the Published Apps 
+Now as we have published Desktop and Applications in previous step, now we will be accessing them. 
 
-1. Use the link [**aka.ms/wvdarmweb**](aka.ms/wvdarmweb) and enter your Credentials to login. 
+1. Use the link [**aka.ms/wvdarmweb**](aka.ms/wvdarmweb) and enter your **credentials** to login. 
 
-   <kbd>![ws name.](media/40.png)</kbd>
+   ![ws name.](media/40.png)
   
 
-2. Now you will be inside the WVD dashboard with all the Desktop and Applications visible. Click on any one of the Applications to access it. 
+2. Now you will be inside the WVD dashboard with all the Desktop and Applications visible. Click on any one of the applications to access it. 
 
-   <kbd>![ws name.](media/41.png)</kbd>
-
-
-3. Click on **Allow** for the Prompt 
-
-   <kbd>![ws name.](media/42.png)</kbd>
+   ![ws name.](media/41.png)
 
 
-4. Enter your **credentials** to access the Application 
+3. Click on **Allow** for the prompt.
 
-   <kbd>![ws name.](media/43.png)</kbd>
+   ![ws name.](media/42.png)
 
 
-5. Your Application will open 
+4. Enter your **credentials** to access the application.
 
-   <kbd>![ws name.](media/44.png)</kbd>
+   ![ws name.](media/43.png)
+
+
+5. Your application will launch.
+
+   ![ws name.](media/44.png)
 
 
 ## Access the published Desktop.
 
 1. Use the link [**aka.ms/wvdarmweb**](aka.ms/wvdarmweb) and enter your Credentials to login. 
 
-   <kbd>![ws name.](media/45.png)</kbd>
+   ![ws name.](media/45.png)
 
 
 2. Now you will be inside the WVD dashboard with all the Desktop and Applications visible. Click on the **Desktop** to access it. 
 
-   <kbd>![ws name.](media/46.png)</kbd>
+   ![ws name.](media/46.png)
 
 
-3. Click on **Allow** for the Prompt 
+3. Click on **Allow** for the Prompt.
 
-   <kbd>![ws name.](media/47.png)</kbd>
-
-
-4. Enter your **credentials** to access the Application.
-
-   <kbd>![ws name.](media/48.png)</kbd>
+   ![ws name.](media/47.png)
 
 
-5. Your **Desktop Session** will open. 
+4. Enter your **credentials** to access the application.
 
-   <kbd>![ws name.](media/49.png)</kbd>
+   ![ws name.](media/48.png)
+
+
+5. Your **Desktop Session** will launch. 
+
+   ![ws name.](media/49.png)
    
 
