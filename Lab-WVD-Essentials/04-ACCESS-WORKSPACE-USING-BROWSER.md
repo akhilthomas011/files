@@ -3,7 +3,7 @@
 
 Now as we have created Desktop and Apps in previous step, now we will be accessing the Published Apps 
 
-1. Use the [**link**](aka.ms/wvdarmweb) **aka.ms/wvdarmweb** and enter your Credentials to login. 
+1. Use the link [**aka.ms/wvdarmweb**](aka.ms/wvdarmweb) and enter your Credentials to login. 
 
    <kbd>![ws name.](media/40.png)</kbd>
   
@@ -30,7 +30,7 @@ Now as we have created Desktop and Apps in previous step, now we will be accessi
 
 ## Access the published Desktop.
 
-1. Use the [**link**](aka.ms/wvdarmweb) **aka.ms/wvdarmweb** and enter your Credentials to login. 
+1. Use the link [**aka.ms/wvdarmweb**](aka.ms/wvdarmweb) and enter your Credentials to login. 
 
    <kbd>![ws name.](media/45.png)</kbd>
 
