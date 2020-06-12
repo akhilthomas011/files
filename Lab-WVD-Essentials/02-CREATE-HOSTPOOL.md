@@ -1,4 +1,5 @@
 # Create Host Pool from Azure Portal 
+# Create Host Pool from Azure Portal 
  
  Host pools are a collection of one or more identical virtual machines within Windows Virtual Desktop environments. Each host pool can contain an app group that users can interact with as they would on a physical desktop. 
 
@@ -6,27 +7,27 @@
 
 2. In the search bar, search for ‘Windows Virtual Desktop” and you will see a resource that shows up in the same name. Click on it. 
 
-<kbd>![ws name.](media/1.png)</kbd>
+![ws name.](media/1.png)
  
 
 3. You will be directed towards the Windows Virtual Desktop(Hereafter referred as WVD) management window.  
 
-<kbd>![ws name.](media/2.png)</kbd>
+![ws name.](media/2.png)
 
 
 4. In the management tab, select **Host pools**. 
 
-<kbd>![ws name.](media/3.png)</kbd>
+![ws name.](media/3.png)
 
 
 5. Click on Add to add new Host Pool. 
 
-<kbd>![ws name.](media/4.png)</kbd>
+![ws name.](media/4.png)
 
 
 6. Creating a Host Pool is divided into multiple sections. The first one is the Basic section. All the fields in this section are explained below along with the values: 
 
- <kbd>![ws name.](media/5.png)</kbd>
+ ![ws name.](media/5.png)
  
  
 **A.** Project Details – Defines the environment 
@@ -75,7 +76,7 @@
    
 7. In the Virtual machines tab, select **Yes** against **Add virtual machines**. By doing this, we are stepping towards adding Virtual machines to the host pool. 
 
-<kbd>![ws name.](media/9.png)</kbd>
+![ws name.](media/9.png)
 
 8. Now a long list of parameter appears. These can be categorized into three: Session Host specifications, Network and Security, Domain and Administrator account. 
 
@@ -83,7 +84,7 @@
 
    In this section, we provide the details of the VMs to be created as session Hosts. 
    
-   <kbd>![ws name.](media/10.png)</kbd>
+   ![ws name.](media/10.png)
    
 
    **Resource Group**: Choose the default pre-created Resource Group
@@ -107,7 +108,7 @@
    
   B. Network and Security 
  
-   <kbd>![ws name.](media/11.png)</kbd>
+   ![ws name.](media/11.png)
    
   
   **Virtual Network**: Default value
@@ -123,7 +124,7 @@
  
  c. Domain and Administrator account 
 
- <kbd> ![ws name.](media/12.png)</kbd>
+  ![ws name.](media/12.png)
  
 
    **Specify Domain or Unit**: No 
@@ -138,7 +139,7 @@
 
 10. In the Workspace section, we need to specify if we need to register the default application group with a workspace. 
 
-   <kbd> ![ws name.](media/13.png)</kbd>
+    ![ws name.](media/13.png)
     
     
 **Register desktop app group:** Yes 
@@ -147,7 +148,7 @@
     
 11.  Once you click the **Create new**, a small window pops up, where you can specify the Workspace name you are going to create.  
 
-<kbd>![ws name.](media/14.png)</kbd>
+![ws name.](media/14.png)
 
 
 **Workspace name:** WVD-WS-01 
@@ -155,20 +156,20 @@ Click **OK**
 
 12. Once we fill up all the parameters, click on the  **Review + create** button on the bottom left corner. 
 
-<kbd>![ws name.](media/15.png)</kbd>
+![ws name.](media/15.png)
 
 
 13. The last window helps us verify if the parameters we filled are correct. If yes, click on Create to initiate the deployment. 
 
-<kbd>![ws name.](media/16.png)</kbd>
+![ws name.](media/16.png)
 
 
 14. The deployment starts, wait until the deployment gets succeeded.  
 
-<kbd>![ws name.](media/17.png)</kbd>
+![ws name.](media/17.png)
 
 
-<kbd>![ws name.](media/18.png)</kbd>
+![ws name.](media/18.png)
  
  
 Click on **Go to Resource**.
@@ -177,11 +178,11 @@ Click on **Go to Resource**.
 
 Click on **Session Hosts** 
 
-<kbd>![ws name.](media/19.png)</kbd>
+![ws name.](media/19.png)
 
 
 16. Notice the Session Hosts created, with a name concatenating the Name Prefix and increment number. 
 
 
-<kbd>![ws name.](media/20.png)</kbd>
+![ws name.](media/20.png)
 
