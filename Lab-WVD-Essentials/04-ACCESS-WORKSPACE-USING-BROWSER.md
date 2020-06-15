@@ -23,11 +23,7 @@ Now as we have published Desktop and Applications in previous step, now we will 
    ![ws name.](media/43.png)
 
 
-<<<<<<< HEAD
 5. Your application will launch.
-=======
-5. Your Application will launch 
->>>>>>> 7504ba55e4bfa153e5c1f877144c4aa959b1a42f
 
    ![ws name.](media/44.png)
 
