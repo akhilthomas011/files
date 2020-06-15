@@ -1,5 +1,4 @@
 # Create Host Pool from Azure Portal 
-# Create Host Pool from Azure Portal 
  
  Host pools are a collection of one or more identical virtual machines within Windows Virtual Desktop environments. Each host pool can contain an app group that users can interact with as they would on a physical desktop. 
 
@@ -151,8 +150,9 @@
 ![ws name.](media/14.png)
 
 
-**Workspace name:** WVD-WS-01 
-Click **OK** 
+**Workspace name:** WVD-WS-01
+
+ Click **OK** 
 
 12. Once we fill up all the parameters, click on the  **Review + create** button on the bottom left corner. 
 
