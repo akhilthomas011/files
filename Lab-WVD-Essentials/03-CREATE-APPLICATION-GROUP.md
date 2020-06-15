@@ -104,7 +104,7 @@ Click on **Save**.
 
 ![ws name.](media/34.png)
 
-Register Application Group: **Yes **
+Register Application Group: **Yes**
 
 The Workspace that was created before (**WVD-WS-01**) will be the default, since the default ‘Desktop’ type application group on the same Session Host (**WVD-SH-01**) is registered to this workspace. 
 
